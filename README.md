@@ -44,13 +44,6 @@ Don't trust deceptive ISP numbers or biased browser speed tests. With NetTruthBe
 
 ---
 
-## 🏁 Getting Started
-
-- Requires .NET 6 or later
-- Run `dotnet build` then execute in Release mode
-- Optionally change test servers or local ports in `Program.cs`
-
----
 
 ## 🙌 Community
 
